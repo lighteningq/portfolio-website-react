@@ -1,0 +1,456 @@
+
+/* DM Mono */
+@font-face {
+    font-family: 'dm_mono_italic';
+    src: url('./DM_Mono/DMMono-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'dm_mono_light';
+    src: url('./DM_Mono/DMMono-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'dm_mono_lightitalic';
+    src: url('./DM_Mono/DMMono-LightItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'dm_mono_medium';
+    src: url('./DM_Mono/DMMono-Medium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'dm_mono_mediumitalic';
+    src: url('./DM_Mono/DMMono-MediumItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'dm_mono_regular';
+    src: url('./DM_Mono/DMMono-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+/* ibm plex mono */
+@font-face {
+    font-family: 'ibm_plex_monobold';
+    src: url('./IBM_Plex_Mono_cross_support/ibmplexmono-bold.woff2') format('woff2'),
+         url('./IBM_Plex_Mono_cross_support/ibmplexmono-bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ibm_plex_monobold_italic';
+    src: url('./IBM_Plex_Mono_cross_support/ibmplexmono-bolditalic.woff2') format('woff2'),
+         url('./IBM_Plex_Mono_cross_support/ibmplexmono-bolditalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ibm_plex_monoextralight';
+    src: url('./IBM_Plex_Mono_cross_support/ibmplexmono-extralight.woff2') format('woff2'),
+         url('./IBM_Plex_Mono_cross_support/ibmplexmono-extralight.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ibm_plex_monoXLtIt';
+    src: url('./IBM_Plex_Mono_cross_support/ibmplexmono-extralightitalic.woff2') format('woff2'),
+         url('./IBM_Plex_Mono_cross_support/ibmplexmono-extralightitalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ibm_plex_monoitalic';
+    src: url('./IBM_Plex_Mono_cross_support/ibmplexmono-italic.woff2') format('woff2'),
+         url('./IBM_Plex_Mono_cross_support/ibmplexmono-italic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ibm_plex_monolight';
+    src: url('./IBM_Plex_Mono_cross_support/ibmplexmono-light.woff2') format('woff2'),
+         url('./IBM_Plex_Mono_cross_support/ibmplexmono-light.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ibm_plex_monolight_italic';
+    src: url('./IBM_Plex_Mono_cross_support/ibmplexmono-lightitalic.woff2') format('woff2'),
+         url('./IBM_Plex_Mono_cross_support/ibmplexmono-lightitalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ibm_plex_monomedium';
+    src: url('./IBM_Plex_Mono_cross_support/ibmplexmono-medium.woff2') format('woff2'),
+         url('./IBM_Plex_Mono_cross_support/ibmplexmono-medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ibm_plex_monomedium_italic';
+    src: url('./IBM_Plex_Mono_cross_support/ibmplexmono-mediumitalic.woff2') format('woff2'),
+         url('./IBM_Plex_Mono_cross_support/ibmplexmono-mediumitalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ibm_plex_monoregular';
+    src: url('./IBM_Plex_Mono_cross_support/ibmplexmono-regular.woff2') format('woff2'),
+         url('./IBM_Plex_Mono_cross_support/ibmplexmono-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ibm_plex_monosemibold';
+    src: url('./IBM_Plex_Mono_cross_support/ibmplexmono-semibold.woff2') format('woff2'),
+         url('./IBM_Plex_Mono_cross_support/ibmplexmono-semibold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ibm_plex_monosemibold_italic';
+    src: url('./IBM_Plex_Mono_cross_support/ibmplexmono-semibolditalic.woff2') format('woff2'),
+         url('./IBM_Plex_Mono_cross_support/ibmplexmono-semibolditalic.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* press start 2P regular */
+
+@font-face {
+    font-family: 'press_start_2pregular';
+    src: url('./Press_Start_2P_cross_support/pressstart2p-regular.eot');
+    src: url('./Press_Start_2P_cross_support/pressstart2p-regular.eot?#iefix') format('embedded-opentype'),
+         url('./Press_Start_2P_cross_support/pressstart2p-regular.woff2') format('woff2'),
+         url('./Press_Start_2P_cross_support/pressstart2p-regular.woff') format('woff'),
+         url('./Press_Start_2P_cross_support/pressstart2p-regular.ttf') format('truetype'),
+         url('./Press_Start_2P_cross_support/pressstart2p-regular.svg#press_start_2pregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Raleway */
+@font-face {
+    font-family: 'ralewayblack';
+    src: url('./Raleway_cross_support/raleway-black.eot');
+    src: url('./Raleway_cross_support/raleway-black.eot?#iefix') format('embedded-opentype'),
+         url('./Raleway_cross_support/raleway-black.woff2') format('woff2'),
+         url('./Raleway_cross_support/raleway-black.woff') format('woff'),
+         url('./Raleway_cross_support/raleway-black.ttf') format('truetype'),
+         url('./Raleway_cross_support/raleway-black.svg#ralewayblack') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ralewaybold';
+    src: url('./Raleway_cross_support/raleway-bold.eot');
+    src: url('./Raleway_cross_support/raleway-bold.eot?#iefix') format('embedded-opentype'),
+         url('./Raleway_cross_support/raleway-bold.woff2') format('woff2'),
+         url('./Raleway_cross_support/raleway-bold.woff') format('woff'),
+         url('./Raleway_cross_support/raleway-bold.ttf') format('truetype'),
+         url('./Raleway_cross_support/raleway-bold.svg#ralewaybold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ralewayextrabold';
+    src: url('./Raleway_cross_support/raleway-extrabold.eot');
+    src: url('./Raleway_cross_support/raleway-extrabold.eot?#iefix') format('embedded-opentype'),
+         url('./Raleway_cross_support/raleway-extrabold.woff2') format('woff2'),
+         url('./Raleway_cross_support/raleway-extrabold.woff') format('woff'),
+         url('./Raleway_cross_support/raleway-extrabold.ttf') format('truetype'),
+         url('./Raleway_cross_support/raleway-extrabold.svg#ralewayextrabold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ralewayextralight';
+    src: url('./Raleway_cross_support/raleway-extralight.eot');
+    src: url('./Raleway_cross_support/raleway-extralight.eot?#iefix') format('embedded-opentype'),
+         url('./Raleway_cross_support/raleway-extralight.woff2') format('woff2'),
+         url('./Raleway_cross_support/raleway-extralight.woff') format('woff'),
+         url('./Raleway_cross_support/raleway-extralight.ttf') format('truetype'),
+         url('./Raleway_cross_support/raleway-extralight.svg#ralewayextralight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ralewayitalic';
+    src: url('./Raleway_cross_support/raleway-italic.eot');
+    src: url('./Raleway_cross_support/raleway-italic.eot?#iefix') format('embedded-opentype'),
+         url('./Raleway_cross_support/raleway-italic.woff2') format('woff2'),
+         url('./Raleway_cross_support/raleway-italic.woff') format('woff'),
+         url('./Raleway_cross_support/raleway-italic.ttf') format('truetype'),
+         url('./Raleway_cross_support/raleway-italic.svg#ralewayitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ralewaylight';
+    src: url('./Raleway_cross_support/raleway-light.eot');
+    src: url('./Raleway_cross_support/raleway-light.eot?#iefix') format('embedded-opentype'),
+         url('./Raleway_cross_support/raleway-light.woff2') format('woff2'),
+         url('./Raleway_cross_support/raleway-light.woff') format('woff'),
+         url('./Raleway_cross_support/raleway-light.ttf') format('truetype'),
+         url('./Raleway_cross_support/raleway-light.svg#ralewaylight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ralewaylight_italic';
+    src: url('./Raleway_cross_support/raleway-lightitalic.eot');
+    src: url('./Raleway_cross_support/raleway-lightitalic.eot?#iefix') format('embedded-opentype'),
+         url('./Raleway_cross_support/raleway-lightitalic.woff2') format('woff2'),
+         url('./Raleway_cross_support/raleway-lightitalic.woff') format('woff'),
+         url('./Raleway_cross_support/raleway-lightitalic.ttf') format('truetype'),
+         url('./Raleway_cross_support/raleway-lightitalic.svg#ralewaylight_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ralewaymedium';
+    src: url('./Raleway_cross_support/raleway-medium.eot');
+    src: url('./Raleway_cross_support/raleway-medium.eot?#iefix') format('embedded-opentype'),
+         url('./Raleway_cross_support/raleway-medium.woff2') format('woff2'),
+         url('./Raleway_cross_support/raleway-medium.woff') format('woff'),
+         url('./Raleway_cross_support/raleway-medium.ttf') format('truetype'),
+         url('./Raleway_cross_support/raleway-medium.svg#ralewaymedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ralewayregular';
+    src: url('./Raleway_cross_support/raleway-regular.eot');
+    src: url('./Raleway_cross_support/raleway-regular.eot?#iefix') format('embedded-opentype'),
+         url('./Raleway_cross_support/raleway-regular.woff2') format('woff2'),
+         url('./Raleway_cross_support/raleway-regular.woff') format('woff'),
+         url('./Raleway_cross_support/raleway-regular.ttf') format('truetype'),
+         url('./Raleway_cross_support/raleway-regular.svg#ralewayregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ralewaysemibold';
+    src: url('./Raleway_cross_support/raleway-semibold.eot');
+    src: url('./Raleway_cross_support/raleway-semibold.eot?#iefix') format('embedded-opentype'),
+         url('./Raleway_cross_support/raleway-semibold.woff2') format('woff2'),
+         url('./Raleway_cross_support/raleway-semibold.woff') format('woff'),
+         url('./Raleway_cross_support/raleway-semibold.ttf') format('truetype'),
+         url('./Raleway_cross_support/raleway-semibold.svg#ralewaysemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ralewaythin';
+    src: url('./Raleway_cross_support/raleway-thin.eot');
+    src: url('./Raleway_cross_support/raleway-thin.eot?#iefix') format('embedded-opentype'),
+         url('./Raleway_cross_support/raleway-thin.woff2') format('woff2'),
+         url('./Raleway_cross_support/raleway-thin.woff') format('woff'),
+         url('./Raleway_cross_support/raleway-thin.ttf') format('truetype'),
+         url('./Raleway_cross_support/raleway-thin.svg#ralewaythin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+@font-face {
+    font-family: 'ralewaythin_italic';
+    src: url('./Raleway_cross_support/raleway-thinitalic.eot');
+    src: url('./Raleway_cross_support/raleway-thinitalic.eot?#iefix') format('embedded-opentype'),
+         url('./Raleway_cross_support/raleway-thinitalic.woff2') format('woff2'),
+         url('./Raleway_cross_support/raleway-thinitalic.woff') format('woff'),
+         url('./Raleway_cross_support/raleway-thinitalic.ttf') format('truetype'),
+         url('./Raleway_cross_support/raleway-thinitalic.svg#ralewaythin_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+
+
+/* RaleWay Dots */
+@font-face {
+    font-family: 'raleway_dots_regular';
+    src: url('./Raleway_Dots_cross_support/ralewaydots-regular.eot');
+    src: url('./Raleway_Dots_cross_support/ralewaydots-regular.eot?#iefix') format('embedded-opentype'),
+         url('./Raleway_Dots_cross_support/ralewaydots-regular.woff2') format('woff2'),
+         url('./Raleway_Dots_cross_support/ralewaydots-regular.woff') format('woff'),
+         url('./Raleway_Dots_cross_support/ralewaydots-regular.ttf') format('truetype'),
+         url('./Raleway_Dots_cross_support/ralewaydots-regular.svg#raleway_dots_regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+
+/* Special-Elite Regular */
+@font-face {
+    font-family: 'special_elite_regular';
+    src: url('./Special_Elite_cross_support/specialelite-regular.eot');
+    src: url('./Special_Elite_cross_support/specialelite-regular.eot?#iefix') format('embedded-opentype'),
+         url('./Special_Elite_cross_support/specialelite-regular.woff2') format('woff2'),
+         url('./Special_Elite_cross_support/specialelite-regular.woff') format('woff'),
+         url('./Special_Elite_cross_support/specialelite-regular.ttf') format('truetype'),
+         url('./Special_Elite_cross_support/specialelite-regular.svg#special_eliteregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

@@ -1,0 +1,22 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "scripts": {
+    "client": "cd ../client && yarn start",
+    "server": "nodemon ./server.js",
+    "dev": "concurrently --kill-others-on-fail \"yarn server\" \"yarn client\"",
+    "start": "node ./server.js"
+  },
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "express-ip": "^1.0.4",
+    "level": "^6.0.1",
+    "level-sublevel": "^6.6.5",
+    "nedb": "^1.8.0"
+  },
+  "devDependencies": {
+    "concurrently": "^4.0.1"
+  }
+}

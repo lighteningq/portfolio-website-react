@@ -1,0 +1,33 @@
+h3{
+  font-size: 1.5vw;
+
+}
+
+.future-title{
+  text-align: center;
+  font-family: "press_start_2p_regular", "Helvetica", sans-serif;
+  
+}
+
+.future-intro{
+    font-family: "Montserrat","raleway_light","Helvetica", sans-serif;
+  font-size: 0.8vw;
+  text-align: center;
+}
+
+#computer{
+  position: absolute;
+  left:50%;
+  transform: translateX(-50%);
+  height: 30vw;
+  width: 30vw;
+}
+
+a.normal-link { text-decoration: underline; color:black; } /* Globally */
+
+/* Each state */
+
+a.normal-link:visited { color:black; }
+a.normal-link:hover { color:steelblue; }
+a.normal-link:focus { color:#C8C8C8; }
+a.normal-link:hover, a:active { color:steelblue }
