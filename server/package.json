@@ -10,7 +10,7 @@
   "dependencies": {
     "bindings": "^1.5.0",
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-ip": "^1.0.4",
     "level": "^6.0.1",
     "level-sublevel": "^6.6.5",
